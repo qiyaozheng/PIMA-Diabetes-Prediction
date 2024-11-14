@@ -52,3 +52,7 @@ This project aims to predict the presence of diabetes in patients using the PIMA
 
 ## Conclusion
 The neural network model achieved good performance metrics with the given dataset. However, given the relatively small size of the dataset (768 samples), further testing on larger and more varied datasets is recommended for robustness.
+
+## Data Source
+The data used in this project is from the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download) on Kaggle.
+Please make sure to respect the usage policy of the dataset as stated on Kaggle.
